@@ -16,12 +16,11 @@ After any post created system should send email to specified in configuration fi
 After any post removed system should log information about it.
 
 Requirements
-* You have to add documentation so everyone will able to install/integrate/use system
-e.g. README.md
+* You have to add documentation so everyone will able to install/integrate/use system e.g. README.md
 * Totally OOP
 * Host your code on Bitbucket or GitHub
 
-Requirements(only for seniors):
+Requirements (only for seniors):
 * This system should provide way to add tags to posts as part of REST-full api.
 * Your system should be optimised for high load that means you have to use some
 cache tools/engines for queries/responses/etc
