@@ -8,6 +8,7 @@ Your JSON-REST full api (not JSON-RPC) should provide CRUD access to two resourc
 without any security check:
 * Post (with fields like: title, body and so on)
 * Tags (with only name field) many-to-may relation with posts
+
 Additional methods for API:
 * select all posts by tag or tags
 * count posts by tag or tags
